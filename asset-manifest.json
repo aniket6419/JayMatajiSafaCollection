@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/JayMatajiSafaCollection/static/css/main.3ceb98d7.css",
+    "main.js": "/JayMatajiSafaCollection/static/js/main.eaf6ed95.js",
+    "static/js/453.4b79e4ab.chunk.js": "/JayMatajiSafaCollection/static/js/453.4b79e4ab.chunk.js",
+    "static/media/img2.jpeg": "/JayMatajiSafaCollection/static/media/img2.bc660c029e5b534f8df6.jpeg",
+    "static/media/img1.jpeg": "/JayMatajiSafaCollection/static/media/img1.1a74b644b922b25b9644.jpeg",
+    "static/media/img8.jpeg": "/JayMatajiSafaCollection/static/media/img8.b4f96201facab6feb431.jpeg",
+    "static/media/img5.jpeg": "/JayMatajiSafaCollection/static/media/img5.7a6538eef6d23fbbbb0b.jpeg",
+    "static/media/img7.jpeg": "/JayMatajiSafaCollection/static/media/img7.d6086b3704048410e9a8.jpeg",
+    "static/media/logo.png": "/JayMatajiSafaCollection/static/media/logo.40394ebcd4e8948da6ad.png",
+    "static/media/img6.jpeg": "/JayMatajiSafaCollection/static/media/img6.e054fbccdd7d02e39ab2.jpeg",
+    "static/media/img4.jpeg": "/JayMatajiSafaCollection/static/media/img4.39b67a1acb644244a03a.jpeg",
+    "static/media/img12.jpg": "/JayMatajiSafaCollection/static/media/img12.692b4b1b2b3522901650.jpg",
+    "static/media/img9.jpg": "/JayMatajiSafaCollection/static/media/img9.25c7633680111b436327.jpg",
+    "static/media/img11.jpg": "/JayMatajiSafaCollection/static/media/img11.dca86d813d675895090c.jpg",
+    "static/media/img13.jpg": "/JayMatajiSafaCollection/static/media/img13.68094b158603d801b1da.jpg",
+    "index.html": "/JayMatajiSafaCollection/index.html",
+    "main.3ceb98d7.css.map": "/JayMatajiSafaCollection/static/css/main.3ceb98d7.css.map",
+    "main.eaf6ed95.js.map": "/JayMatajiSafaCollection/static/js/main.eaf6ed95.js.map",
+    "453.4b79e4ab.chunk.js.map": "/JayMatajiSafaCollection/static/js/453.4b79e4ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ceb98d7.css",
+    "static/js/main.eaf6ed95.js"
+  ]
+}
